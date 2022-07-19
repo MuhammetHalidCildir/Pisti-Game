@@ -1,0 +1,40 @@
+D:\projects\ilker hoca\Pisti\bin\Debug\Pisti.exe.config
+D:\projects\ilker hoca\Pisti\bin\Debug\Pisti.exe
+D:\projects\ilker hoca\Pisti\bin\Debug\Pisti.pdb
+D:\projects\ilker hoca\Pisti\obj\Debug\Pisti.csproj.AssemblyReference.cache
+D:\projects\ilker hoca\Pisti\obj\Debug\Pisti.csproj.SuggestedBindingRedirects.cache
+D:\projects\ilker hoca\Pisti\obj\Debug\Pisti.csproj.CoreCompileInputs.cache
+D:\projects\ilker hoca\Pisti\obj\Debug\Pisti.exe
+D:\projects\ilker hoca\Pisti\obj\Debug\Pisti.pdb
+C:\Users\ARIBILGI\Desktop\Pisti\bin\Debug\Pisti.exe.config
+C:\Users\ARIBILGI\Desktop\Pisti\bin\Debug\Pisti.exe
+C:\Users\ARIBILGI\Desktop\Pisti\bin\Debug\Pisti.pdb
+C:\Users\ARIBILGI\Desktop\Pisti\obj\Debug\Pisti.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\Pisti\obj\Debug\Pisti.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARIBILGI\Desktop\Pisti\obj\Debug\Pisti.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\Pisti\obj\Debug\Pisti.exe
+C:\Users\ARIBILGI\Desktop\Pisti\obj\Debug\Pisti.pdb
+C:\Users\ARIBILGI\Desktop\Pisti v2\bin\Debug\Pisti.exe.config
+C:\Users\ARIBILGI\Desktop\Pisti v2\bin\Debug\Pisti.exe
+C:\Users\ARIBILGI\Desktop\Pisti v2\bin\Debug\Pisti.pdb
+C:\Users\ARIBILGI\Desktop\Pisti v2\obj\Debug\Pisti.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\Pisti v2\obj\Debug\Pisti.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARIBILGI\Desktop\Pisti v2\obj\Debug\Pisti.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\Pisti v2\obj\Debug\Pisti.exe
+C:\Users\ARIBILGI\Desktop\Pisti v2\obj\Debug\Pisti.pdb
+C:\Users\ARIBILGI\Desktop\Pisti v3\bin\Debug\Pisti.exe.config
+C:\Users\ARIBILGI\Desktop\Pisti v3\bin\Debug\Pisti.exe
+C:\Users\ARIBILGI\Desktop\Pisti v3\bin\Debug\Pisti.pdb
+C:\Users\ARIBILGI\Desktop\Pisti v3\obj\Debug\Pisti.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\Pisti v3\obj\Debug\Pisti.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARIBILGI\Desktop\Pisti v3\obj\Debug\Pisti.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\Pisti v3\obj\Debug\Pisti.exe
+C:\Users\ARIBILGI\Desktop\Pisti v3\obj\Debug\Pisti.pdb
+C:\Users\User\Desktop\PistiGameAlgoritm-main\bin\Debug\Pisti.exe.config
+C:\Users\User\Desktop\PistiGameAlgoritm-main\bin\Debug\Pisti.exe
+C:\Users\User\Desktop\PistiGameAlgoritm-main\bin\Debug\Pisti.pdb
+C:\Users\User\Desktop\PistiGameAlgoritm-main\obj\Debug\Pisti.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PistiGameAlgoritm-main\obj\Debug\Pisti.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\PistiGameAlgoritm-main\obj\Debug\Pisti.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PistiGameAlgoritm-main\obj\Debug\Pisti.exe
+C:\Users\User\Desktop\PistiGameAlgoritm-main\obj\Debug\Pisti.pdb
